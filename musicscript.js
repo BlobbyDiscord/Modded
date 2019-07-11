@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-client.login('Your bot\'s token here');
+client.login('');
 
 var prefix = "/"
 client.on('message', message => {
